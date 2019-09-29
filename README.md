@@ -7,7 +7,7 @@ www.dnspod.com [btsync.gq] => url =www.重定向到自身[btsync.gq]
 
 www.cloudflare.com [btsync.gq] [云)=> cname 到 lirener.github.io
 
-www.cloudflare.com [btsync.gq] [云)=> cname 到 url.dnspod.com 【此项可删？】
+www.cloudflare.com [btsync.gq] => cname 到 url.dnspod.com 
 
 域名注册商-设置 NS NAME server
 
