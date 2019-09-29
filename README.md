@@ -3,7 +3,7 @@
 
 www.dnspod.com [btsync.gq] => cname 到 Cloudflare nameservers【2选1】 
 
-www.dnspod.com [btsync.gq] => url =www.重定向到自身[btsync.gq]
+www.dnspod.com [btsync.gq] => url 的 www 重定向到自身[btsync.gq]
 
 www.cloudflare.com [btsync.gq] [云)=> cname 到 lirener.github.io
 
